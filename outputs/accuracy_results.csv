@@ -1,0 +1,8 @@
+Training Size,Model,Test Accuracy
+10000,Logistic Regression,0.396
+15000,Logistic Regression,0.4006
+20000,Logistic Regression,0.4028
+25000,Logistic Regression,0.4056
+30000,Logistic Regression,0.399
+Full (LR),Logistic Regression,0.4016
+Full (NB),Naive Bayes,0.4554
